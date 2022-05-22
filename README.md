@@ -8,5 +8,5 @@ Here are some ideas to get you started: -->
 - 🌱 Estou aprendendo flutter
 - 👯 Procuro partcipar do front-end de projetos
 - 🤔 Precuro ajuda em back-end e front-end
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
