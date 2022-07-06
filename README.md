@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 Estou aprendendo flutter
 - 👯 Procuro partcipar do front-end de projetos
-- 🤔 Precuro ajuda em back-end e front-end
+- 🤔 Procuro ajuda em back-end e front-end
 - 😄 Pronomes: ela/dela
 
 <div align="center">
