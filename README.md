@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started: -->
 
+- :mortar_board: Técnico em Desenvolvimento de Sistemas
 - 🌱 Estou aprendendo flutter
-- 👯 Procuro partcipar do front-end de projetos
+- 👯 Procuro participar no front-end de projetos
 - 🤔 Procuro ajuda em back-end e front-end
 - 😄 Pronomes: ela/dela
 
