@@ -6,10 +6,9 @@
 Here are some ideas to get you started: -->
 
 - :mortar_board: Técnico em Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo flutter
+- 🌱 Estou aprendendo js
 - 👯 Procuro participar no front-end de projetos
 - 🤔 Procuro ajuda em back-end e front-end
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/SthefannySantos">
