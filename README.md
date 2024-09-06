@@ -7,8 +7,7 @@ Here are some ideas to get you started: -->
 
 - :mortar_board: Tecnologia da Informação (Cursando)
 - 🌱 Estou aprendendo Node.js
-- 👯 Procuro participar no front-end de projetos
-- 🤔 Procuro ajuda em back-end e front-end
+- 👯 Procuro participar no back-end e front-end de projetos
 
 <div align="center">
   <a href="https://github.com/SthefannySantos">
